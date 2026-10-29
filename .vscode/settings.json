@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "*.dbclient-js": "javascript",
+        "q1.C": "cpp",
+        ".C": "cpp",
+        "Q2.C": "cpp",
+        "Q3.C": "cpp"
+    }
+}
